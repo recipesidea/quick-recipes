@@ -1,1 +1,3 @@
-# quick-recipes
+#NOTE
+
+.github/workflows/generate-feed.yml
